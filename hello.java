@@ -3,6 +3,4 @@ djksad
 Hello world
 
 
-nbjsad
-hjkjsad
-nknaskj
+System.out.println("Hello world!");
